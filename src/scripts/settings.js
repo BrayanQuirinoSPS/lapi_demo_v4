@@ -88,6 +88,7 @@ const initSdk = (name) => {
     setTimeout(() => {
         let chatWidgetSettings = {
             //enableTimestamp: true,
+	    conversationBeginPosition: 'top',
             timestampFormat: "hh:mm a",
             logoIcon: logo, 
             botIcon: logo,
