@@ -3,8 +3,11 @@
     width: 100vw;
 }
 .oda-chat-button {
-    background-color: rgba(66, 177, 65, 0) !important;
+    background-color: rgba(66, 177, 65, 0) !important;  
+    height: 80px !important;
+    width: 80px !important;
 }
+
 .fondo{
     height: 100%;
     width: 100%;
