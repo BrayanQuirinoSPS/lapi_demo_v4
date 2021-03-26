@@ -84,7 +84,7 @@ const initSdk = (name) => {
     }
     let Bots;
     //let log='src/images/logo1.png'
-    let logo='https://github.com/BrayanQuirinoSPS/notas/raw/master/Oracle_Digital_Assitant/Lapi/chatbot_web/src/images/logo3.png'
+    let logo='https://github.com/BrayanQuirinoSPS/lapi_demo_v4/raw/gh-pages/src/images/corazon.gif'
     setTimeout(() => {
         let chatWidgetSettings = {
             //enableTimestamp: true,
