@@ -116,7 +116,7 @@ const initSdk = (name) => {
             //Caracteristicas escondidas
             i18n: {
                 en: {
-                    chatTitle: 'LAPI Laboratorio Médico',       
+                    chatTitle: 'Lapi Asesor de Salud',       
                     connected: 'Conectado',            
                     inputPlaceholder: 'Escribe tu mensaje...', 
                     send: 'Enviar (Enter)'  ,
