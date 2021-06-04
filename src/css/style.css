@@ -9,7 +9,7 @@
 }
 
 .oda-chat-card{
-    justify-content: center;    
+    justify-content: center !important;    
 }
 
 .fondo{
