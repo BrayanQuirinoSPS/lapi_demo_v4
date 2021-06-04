@@ -8,6 +8,10 @@
     width: 80px !important;
 }
 
+.oda-chat-card{
+    justify-content: center;    
+}
+
 .fondo{
     height: 100%;
     width: 100%;
