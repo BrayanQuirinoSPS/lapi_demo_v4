@@ -18,6 +18,7 @@
 }
 
 .oda-chat-conversation {
+  overflow: scroll !important;
   overflow-y: scroll !important;
   scroll-behavior: smooth;
 }
