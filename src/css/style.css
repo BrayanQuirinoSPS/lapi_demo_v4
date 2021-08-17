@@ -17,7 +17,7 @@
     width: 100%;
 }
 
-scroll-container {
-  overflow-y: scroll;
+.oda-chat-conversation {
+  overflow-y: scroll !important;
   scroll-behavior: smooth;
 }
