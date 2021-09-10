@@ -125,8 +125,8 @@ const initSdk = (name) => {
             },
             "colors": colors_lapi_1,
             clientAuthEnabled: isClientAuthEnabled,
-            URI: 'oda-299d9648040a4a0abe6a946d4a14e717-da2.data.digitalassistant.oci.oraclecloud.com',
-            channelId: 'c77bd5ef-ebff-43c7-9938-56c341864cb2'
+            URI: 'oda-b1a2a9a7f0d34e9998a61bb32adb8b9d-da2.data.digitalassistant.oci.oraclecloud.com',
+            channelId: '696b092b-c6f3-46cc-8746-7eff0298a001'
             //URI: process.env.URI,
             //channelId: process.env.CHANNEL_ID 
         };
