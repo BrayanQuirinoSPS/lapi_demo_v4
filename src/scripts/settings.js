@@ -125,8 +125,12 @@ const initSdk = (name) => {
             },
             "colors": colors_lapi_1,
             clientAuthEnabled: isClientAuthEnabled,
-            URI: 'oda-b1a2a9a7f0d34e9998a61bb32adb8b9d-da2.data.digitalassistant.oci.oraclecloud.com',
-            channelId: '696b092b-c6f3-46cc-8746-7eff0298a001'
+            //URI: 'oda-b1a2a9a7f0d34e9998a61bb32adb8b9d-da2.data.digitalassistant.oci.oraclecloud.com',
+            //channelId: '696b092b-c6f3-46cc-8746-7eff0298a001'
+
+            URI: 'oda-09cea2cf08ce4c748d4991b2091e2a4c-da2.data.digitalassistant.oci.oraclecloud.com',
+            channelId: 'b031b8e2-5c99-4e52-9982-35b034a3d7eb'
+
             //URI: process.env.URI,
             //channelId: process.env.CHANNEL_ID 
         };
