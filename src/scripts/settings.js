@@ -113,6 +113,7 @@ const initSdk = (name) => {
             //Inicializador del bot
             initUserHiddenMessage: 'Hola',
             conversationBeginPosition: 'bottom',
+            speechLocale: WebSDK.SPEECH_LOCALE.ES_ES,
             //Caracteristicas escondidas
             i18n: {
                 en: {
@@ -125,11 +126,9 @@ const initSdk = (name) => {
             },
             "colors": colors_lapi_1,
             clientAuthEnabled: isClientAuthEnabled,
+            initUserProfile: {profile:{locale:'es'}},
             URI: 'oda-b1a2a9a7f0d34e9998a61bb32adb8b9d-da2.data.digitalassistant.oci.oraclecloud.com',
             channelId: '696b092b-c6f3-46cc-8746-7eff0298a001'
-
-            // URI: 'oda-09cea2cf08ce4c748d4991b2091e2a4c-da2.data.digitalassistant.oci.oraclecloud.com',
-            // channelId: 'e9dd4ca5-d1f1-4c90-a71a-5c6369a65f56'
             //URI: process.env.URI,
             //channelId: process.env.CHANNEL_ID 
         };
